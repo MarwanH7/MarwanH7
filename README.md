@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarwanH7
-- 👀 I’m interested in Machine learning from ETL,to classical ML, to Deep learning ,Electicity,Economics.Philosphy, Athletics,Music 
-- 🌱 I’m currently learning by building end to end projects using deep neural networks and pre trained models.
+- 👀 I’m interested in the world of data from ETL,to classical ML, to Deep learning. I also enjoy and studied Electicity,Economics.Philosphy and music. 
+- 🌱 I’m currently working on Mlop project, that take a working Ml model working in a notbook and turning it into a useful,repeatable,monitorable, deployable service 
 - 💞️ I’m looking to collaborate on projects that would help our planet and people prosper and live better lives !!
 - 📫 reach me at my email maroelhelali@hotmail.com
 
