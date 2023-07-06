@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarwanH7
-- 👀 I’m interested in the world of data from ETL,to classical ML, to Deep learning. I also enjoy and studied Electicity,Economics.Philosphy and music. 
+- 👀 I’m recent electrical engineer and data science graduate. I'm interested in the world of data from ETL,to classical ML, to Deep learning. I also enjoy and studied Electicity,Economics.Philosphy and music. 
 - 🌱 I’m currently working on Mlop project, that take a working Ml model working in a notbook and turning it into a useful,repeatable,monitorable, deployable service 
 - 💞️ I’m looking to collaborate on projects that would help our planet and people prosper and live better lives !!
 - 📫 reach me at my email maroelhelali@hotmail.com
