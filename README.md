@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @MarwanH7
-- 👀 I’m recent Electrical engineer and data science graduate. I'm interested in the world of data from ETL,to classical ML, to Deep learning, and this fields unique innovative disruptive ability to increase real growth and address common business pain points in our Economy today. I also enjoy and studied Electicity,Economics.Philosphy and music. 
-- 🌱 I’m currently working on Mlop project, that take a working Ml model working in a notbook and turning it into a useful,repeatable,monitorable, deployable service 
-- 💞️ I’m looking to collaborate on projects that would help our planet and people prosper and live better lives !!
-- 📫 reach me at my email maroelhelali@hotmail.com
+👋 Hi, I’m @MarwanH7!
+
+👀 I recently graduated with a degree in Electrical Engineering and Data Science. My interests revolve around the expansive world of data—from ETL processes to classical ML and Deep Learning. I'm particularly drawn to how these fields innovatively address business challenges in today's economy. My academic journey has also delved into Electricity, Economics, Philosophy, and Music.
+
+🌱 Currently, I'm immersed in an exciting MLOps project. The goal? Taking functional ML models from notebooks and transforming them into practical, reproducible, monitorable, and deployable services.
+
+💞️ I’m eager to collaborate on projects that contribute to a better planet and improved lives for people worldwide!
+
+📫 Feel free to reach out to me via email at maroelhelali@hotmail.com.
 
 <!---
 MarwanH7/MarwanH7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
