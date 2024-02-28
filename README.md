@@ -1,6 +1,6 @@
 👋 Hi, I’m @MarwanH7!
 
-👀 Recent DataScience graduate with Bachelor of Science in Electrical Engineering & Engineering Management. I developed an interest in data analytics in my second last coop term at Hydro Ottawa. My interests revolve around the expansive world of data—from ETL processes to classical ML and Deep Learning. I'm particularly drawn to how these fields innovatively address business pain points in business structures and can help make them much more robust. My academic journey has also delved into Electricity, Economics, Philosophy, and Music. 
+👀 Recent DataScience graduate with Bachelor of Science in Electrical Engineering & Engineering Management. I developed an interest in data analytics in my second last coop term at Hydro Ottawa. My interests revolve around the expansive world of data—from ETL processes to classical ML and Deep Learning. I'm particularly drawn to how these fields innovatively address business pain points in business structures and can help make them much more robust. My academic journey has also delved into Electricity, Economics|global markets, Philosophy, music and sales. 
 
 My more recent interest lies in time series analysis and forecasting, driven by my fascination with the stock market, sales & revenue, and energy supply and demand—areas that can all be modeled as time series signals. This newfound passion fuels my journey into the world of data analytics and apsiring to become a machine learning engineer.
 
